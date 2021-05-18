@@ -39,7 +39,8 @@ canvas {
   background-color: aliceblue;
 }
 
-th, td {
+th,
+td {
   border: 1px solid black;
 }
 
